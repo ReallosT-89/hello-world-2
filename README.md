@@ -1,2 +1,3 @@
-# hello-world-2
-This repository is for practicing the GitHub Flow.
+# 2nd About Myself
+
+My Name is ReallosT, but most people call me Lost.
